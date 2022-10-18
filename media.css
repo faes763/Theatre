@@ -1,0 +1,64 @@
+@media(max-width: 1405px) {
+	.theatre {
+		flex-wrap: wrap;
+	}
+	.plr {
+		margin: 100px;
+	}
+	.te {
+		left: 0;
+		bottom: 0;
+	}
+	.pro {
+		margin: 0 auto;
+	}
+	.plr h1 {
+		width: inherit;
+	}
+	.plr p {
+		max-width: 1050px;
+	}
+	.plr button {
+		margin: 0 auto;
+	}
+	.plr {
+		margin: 0 auto;
+		text-align: center;
+		padding: 0;
+		margin-bottom: 100px;
+	}
+	.oscar p, .arka p, .jeck p, .graf p {
+		right: 33%;
+		top: 55%;
+	}
+
+}
+@media(max-width: 1110px) {
+	.container {
+		width: 800px;
+	}
+	header ul li {
+		font-size: 12px;
+	}
+	header p {
+		font-size: 14px;
+	}
+	.number p {
+		font-size: 14px;
+	}
+	.oleg textarea {
+		width: 100%;
+	}
+	.about button {
+		left: 23%;
+	}
+
+}
+@media(min-width: 3500px) {
+	.whya button {
+		left: 99%;
+		top: -5px;
+		padding: 15px 32px;
+		font-size: 50px;
+	}
+}
